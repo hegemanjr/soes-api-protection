@@ -2,7 +2,7 @@
 Contributors: Jeff Hegeman  
 Tags: security, REST API   
 Tested up to: 5.7  
-Stable tag: 1.0.5  
+Stable tag: 1.0.6  
 
 This plugin will remove the users endpoints from the the REST API for unauthenticated requests.
 

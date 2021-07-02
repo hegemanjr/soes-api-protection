@@ -5,7 +5,7 @@
  * Plugin URI: https://608.software
  * Description: Block REST API for users that are not logged in
  * Author: Jeff Hegeman
- * Version: 1.0.5
+ * Version: 1.0.6
  * Author URI: https://608.software
  * Text Domain: soes-api-protection
  * Domain Path: /languages
